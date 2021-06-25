@@ -4,6 +4,9 @@ header:
     zh: 分类
     url: /category
   
+  - title: GitHub
+    ulr: https://github.com
+  
   - titles:
       # @start locale config
       en      : &EN       About
