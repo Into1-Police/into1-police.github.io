@@ -52,8 +52,8 @@ header:
 side-nav:
   - title: 高卿尘
     children:
-      - title: 业务能力不行
-        url: /nine/01
+      - title: 业务能力
+        url: /nine/skills
       - title: 卖人设
         url: /nine/02
   - title: 高卿尘粉丝

@@ -203,15 +203,15 @@ exclude:
 
 # collections
 
-collections:
-  nine:
-    output: true
-  ninefans:
-    output: true
-  liuyu:
-    output: true
-  liuyufans:
-    output: true
+# collections:
+#   nine:
+#     output: true
+#   ninefans:
+#     output: true
+#   liuyu:
+#     output: true
+#   liuyufans:
+#     output: true
 
 defaults:
   - scope:
