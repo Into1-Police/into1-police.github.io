@@ -1,13 +1,14 @@
 ---
 layout: article
+permalink: /home.html
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN       Home
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
+  zh-Hans : &ZH_HANS  主页
   zh      : *ZH_HANS
   zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS
@@ -35,4 +36,4 @@ Into1男团成立于2021年4月24日，由腾讯视频推出。blah, blah, blah
 
 | `高卿尘` | `高卿尘粉丝` | `刘宇` | `刘宇粉丝` | 
 | --- |  --- | --- | --- | 
-| [<img src="/assets/images/nine.png">](/_docs/2021-06-26-test-post.md) | [<img src="/assets/images/strawberry.png">](/docs/_posts/2016-06-06-lists.md) | [<img src="/assets/images/fish.png">](/docs/_posts/2016-05-05-definition.md) | [<img src="/assets/images/shark.png">](/docs/_posts/2016-05-08-blockquotes.md) | 
+| [<img src="/assets/images/nine.png">](/nine-collection) | [<img src="/assets/images/strawberry.png">](/nine-fans-collection) | [<img src="/assets/images/fish.png">](/liuyu-collection) | [<img src="/assets/images/shark.png">](/liuyu-fans-collection) | 

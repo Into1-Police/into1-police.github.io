@@ -1,12 +1,12 @@
 header:  
   - titles:
       # @start locale config
-      en      : &EN       About
+      en      : &EN       Home
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  关于
+      zh-Hans : &ZH_HANS  主页
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
@@ -22,7 +22,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
     # @end locale config
-    url: /about.html
+    url: /home.html
 
   - titles:
       # @start locale config
@@ -50,9 +50,27 @@ header:
     url: /archive.html
 
 side-nav:
-  - title: Nine
+  - title: 高卿尘
     children:
-      - title: 高卿尘
-        url: /nine
-      - title: 高卿尘粉丝
-        url: /nine-fans
+      - title: 业务能力不行
+        url: /nine/01
+      - title: 卖人设
+        url: /nine/02
+  - title: 高卿尘粉丝
+    children:
+      - title: 粉丝网暴素人
+        url:
+      - title: 粉丝屠版豆瓣
+        url: /home
+  - title: 刘宇
+    children: 
+      - title: 学历造假
+        url: 
+      - title: 内涵团内成员
+        url:
+  - title: 刘宇粉丝
+    children:
+      - title: 骗粉丝钱集资应援
+        url: 
+      - title: 给其他成员P鬼图
+        url: 
