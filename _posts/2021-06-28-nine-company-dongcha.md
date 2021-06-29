@@ -6,7 +6,7 @@ sidebar:
 title: 高卿尘，洞察娱乐真正的皇泰子
 permalink: /nine/insight
 categories: nine
-key: nine-skills
+key: nine-insight
 aside:
     toc: true
 pageview: true
