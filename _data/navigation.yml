@@ -56,8 +56,16 @@ side-nav:
         url: /nine/skills
       - title: 洞察娱乐皇泰子
         url: /nine/insight
-      - title: 泰兰德的fake甜心
+      - title: 是甜心还是人精
         url: /nine/fake-sweetheart
+      - title: 高卿尘小偷家族
+        children:
+          - title: 偷人设
+            url: 
+          - title: 偷口音
+            url:
+          - title: 偷应援色
+            url:
   - title: 高卿尘粉丝
     children:
       - title: 粉丝网暴素人
