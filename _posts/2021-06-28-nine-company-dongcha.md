@@ -4,6 +4,7 @@ tags: 高卿尘 洞察 皇族 尹浩宇 真实家世
 sidebar: 
     nav: side-nav
 title: 高卿尘，洞察娱乐真正的皇泰子
+excerpt: 洞察娱乐作为推出高卿尘和尹浩宇的公司，可以安排营销高卿尘人设，高层是在微博屡次卖惨，在被网友爆出其真实操作目的后，更是扬言要网暴扒皮网友。
 permalink: /nine/insight
 categories: nine
 key: nine-insight

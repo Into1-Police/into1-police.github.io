@@ -4,6 +4,7 @@ tags: 高卿尘 跳舞 划水 破音
 sidebar: 
     nav: side-nav
 title: 🆘业务能力
+excerpt: 高卿尘作为第五名出道的选秀人物，其唱歌和业务实力本应很强才能被众望所归的拿到第五名。网友总结从创造营开始到成团后所有的舞台中，发现营销的"vocal"人设站不住脚，舞蹈能力更是不足，成团后绝大部分舞台全部挑错，其本人在训练和彩排中的态度更是懒散。相比于其他靠努力出道的成员来说，为何高卿尘有如此底气？
 permalink: /nine/skills
 categories: nine
 key: nine-skills

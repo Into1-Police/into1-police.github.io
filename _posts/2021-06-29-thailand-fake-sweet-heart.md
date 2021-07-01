@@ -1,10 +1,11 @@
 ---
 layout: article
-tags: 高卿尘 翻白眼 无礼貌 林墨 周柯宇 米卡 AK刘彰 张嘉元 尹浩宇 伯远
+tags: 高卿尘 翻白眼 无礼貌 林墨 周柯宇 米卡 AK刘彰 张嘉元 尹浩宇 伯远 营销人设
 sidebar: 
     nav: side-nav
 title: 甜心是人设还是真心
 permalink: /nine/fake-sweetheart
+excerpt: 高卿尘从初舞台就走可爱甜心路线，然而从其在节目和直播镜头前的种种表现，发现不过是营销的“人设”。而网友更是发现，高卿尘本人在镜头前多次对创造营其他成员以及现into1成员翻白眼，没礼貌。作为公众人物，对粉丝言行都做了负面的引导。
 categories: nine
 key: "nine-fake-sweetheart"
 aside:
