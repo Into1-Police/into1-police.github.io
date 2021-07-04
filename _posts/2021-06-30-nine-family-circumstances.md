@@ -1,6 +1,6 @@
 ---
 layout: article
-tags: 高卿尘 脱粉 营销
+tags: 高卿尘 脱粉 营销 卖惨 家世 买不起飞机票
 sidebar: 
     nav: side-nav
 title: 卖惨身世博同情？真❗️❗️
@@ -13,12 +13,12 @@ aside:
 pageview: true
 ---
 
-泰国艺人在本国风生水起，穿戴矜贵，却在中国节目中时刻流泪卖惨，此先路是否可开。希望wgr艺人莫要欺负中国粉丝傻钱多，秀芬还是要注重秀人的舞台实力，令选秀节目回归其本真，拒绝扶贫外国**富二代**。
+泰国艺人在本国风生水起，收入不错，却在中国节目中流泪卖惨，利用社会公众的同情，此先路是否可开？希望外国艺人莫要欺负中国粉丝傻钱多，秀芬还是要注重秀人的舞台实力，令选秀节目回归其本真，拒绝利用公众同情刻意卖惨获利的艺人。
 
 # 卖惨时间线
 
 ```mermaid
-graph LR;
+graph TD;
     2月开播前-->|父亲是老板,梦想继承父业|3月年夜饭;
     3月年夜饭-->|母亲需要存钱买来中国的机票|4月家人打call;
     4月家人打call-->|小时候用钱需要想着明天够不够用|4月三顺;
@@ -84,18 +84,17 @@ graph LR;
 
 <div class="card">
   <div class="card__image">
+    <img class="image" src="../assets/images/nine/nine-family/comment-08.jpg"/>
+    <img class="image" src="../assets/images/nine/nine-family/comment-09.jpg"/>
     <img class="image" src="../assets/images/nine/nine-family/comment-01.png"/>
     <img class="image" src="../assets/images/nine/nine-family/comment-02.png"/>
     <img class="image" src="../assets/images/nine/nine-family/comment-03.png"/>
     <img class="image" src="../assets/images/nine/nine-family/comment-04.png"/>
-    <img class="image" src="../assets/images/nine/nine-family/comment-05.jpg"/>
-    <img class="image" src="../assets/images/nine/nine-family/comment-06.png"/>
   </div>
 </div>
 
-粉丝称其家境不好卖惨，呼吁投票做数据
-爱豆不靠业务能力靠编造穷苦的身世卖惨来获取同情支持
-这样传递了什么样的价值观？
+粉丝称其家境不好，极力卖惨，呼吁路好帮忙投票、做数据。爱豆不靠业务能力却靠编造穷苦的身世来获取同情和支持，这究竟传递了什么样的价值观？
+
 
 <div class="card">
   <div class="card__image">
@@ -111,14 +110,28 @@ graph LR;
   </div>
 </div>
 
-高卿尘家人一通电话给大家留下家境贫困的初印象；洞察娱乐嗅觉灵敏在社交平台大力营销“贫困”人设，获得了路人怜爱；高卿尘本人更是在创造营期间**多次强调**家人辛苦，**暗示**家境不好，加深营销人设印象，吃尽人设红利。
+高卿尘家人一通电话给大家留下家境贫困的初印象；洞察娱乐嗅觉灵敏在社交平台大力营销“贫困”人设，获得了路人怜爱；高卿尘本人更是鸡贼的利用大众同情心，在创造营期间**多次强调**家人辛苦，**暗示**家境不好，卖弄贫苦人设，变成他的流量密码，吃尽人设福利。
 {:.error}
 
 # 真实家境
 
-要了解高卿尘的真实家境，首先需要简介绍高卿尘的家庭成员。高卿尘家里有四口人：父亲，母亲，姐姐以及高卿尘本人。
+我们尊重他人隐私，不会以非法手段去获得他们的财务状态。俗话说，
+`管中窥豹，可见一斑`{:.info}。我们可以从在公共平台获得的信息，以及他们自己主动在社交平台发布的动态去大致的推测他们的生活情况是怎样的。
 
-下面我会用四篇文章来分别写家境。
+我们本着求实的心态去搜集资料，结果是让我们大跌眼镜。高卿尘家境不仅和节目中塑造的人设毫无关系，甚至可以说背道而驰，冠以“富二代”名义都不为过。
 
+高卿尘因为是公众人物，且双方父母均经商，很多资料都在网络上公开。以下我们会从他们家的家庭成员：父亲，母亲，姐姐以及高卿尘本人，分别探讨他们的生活情况如何。
+
+⚠️本帖所用到的所有素材，均取自提及人物开放的社交网络 
+⚠️以免被说8素人，对提及人物的公开图片均做打码处理 
+⚠️以免被说8素人，对未出镜《创造营2021》的父亲做打码处理
+⚠️本帖讨论的重点不是艺人家庭如何使用自己的💰，而是享受着相对富裕生活的同时，却在🇨🇳选秀节目中卖惨买不起机票，利用社会大众的同情心来为自己获得流量和财富
+
+<div class="layout--articles">
+  <section class="my-5">
+    {% assign sorted-posts = site.posts | where: "categories","nine-finance" %}
+    {%- include article-list.html articles=sorted-posts type='grid' show_readmore='true' show_excerpt='true' -%}
+  </section>
+</div>
 
 
