@@ -11,7 +11,11 @@ key: nine-finance
 aside:
     toc: true
 pageview: true
+excerpt: 从4岁开始就读泰国有名的私立学校，一直持续到大学本科的身世不凡的高卿尘，却在创造营中屡次营销"贫苦励志人设"，作为公众人物，给青少年带来负面引导。
 ---
+
+本站所有内容都会**不断更新和校正**，保证资料的真实和准确，所有内容都以发布在网站的内容为准，若读者看到关于本网站的截图与网站内容有出入的，视为截图无效。欢迎各位读者投稿和校正。
+{:.warning}
 
 **阅前必读**
 
@@ -52,7 +56,7 @@ pageview: true
   </div>
 </div>
 
-该校是泰国提供 `alternative education` 的**私立学校**比较有名的徐晓之一，在CNA的新加坡版本关于这所学校的报道[^3]中，特地的提到了能够提供`alternative education`的学校在泰国不是一般家庭能负担的起的。而我们的主人公**Roong Aroon School**正是这类学校的代表
+该校是泰国提供 `alternative education` 的**私立学校**比较有名的学校之一，在CNA的新加坡版本关于这所学校的报道[^3]中，特地提到了能够提供`alternative education`的学校在泰国不是一般家庭能负担的起的。而我们的主人公**Roong Aroon School**正是这类学校的代表
 
 以下为原文节选：
 > In Thailand, however, **tuition fees** for alternative schools are usually **comparatively high. Not every family can afford to pay for private educational establishments offering an alternative curriculum.** Most children attend public schools where traditional teaching and learning methods are the norm. 

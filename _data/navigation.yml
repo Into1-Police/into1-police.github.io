@@ -1,86 +1,49 @@
 header:  
-  - titles:
-      # @start locale config
-      en      : &EN       Home
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  主页
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  關於
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       소개
-      ko-KR   : *KO
-      fr      : &FR       À propos
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
+  - title: 主页
     # @end locale config
     url: /home.html
 
-  - titles:
-      # @start locale config
-      en      : &EN       Archive
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  归档
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  歸檔
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       아카이브
-      ko-KR   : *KO
-      fr      : &FR       Archives
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
+  - title: 归档
       # @end locale config
     url: /archive.html
+  
+  - title: 投稿
+    url: /contact
 
 side-nav:
   - title: 高卿尘
     children:
-      - title: 业务能力
+      - title: 业务能力拉垮
         url: /nine/skills
       - title: 洞察娱乐皇泰子
         url: /nine/insight
-      - title: 是甜心还是人精
+      - title: 甜心or人精
         url: /nine/fake-sweetheart
-      - title: 高卿尘小偷家族
-        children:
-          - title: 偷人设
-            url: 
-          - title: 偷口音
-            url:
-          - title: 偷应援色
-            url:
-  - title: 高卿尘粉丝
-    children:
-      - title: 粉丝网暴素人
-        url:
-      - title: 粉丝屠版豆瓣
-        url: /home
-  - title: 刘宇
-    children: 
-      - title: 学历造假
-        url: 
-      - title: 内涵团内成员
-        url:
-  - title: 刘宇粉丝
-    children:
-      - title: 骗粉丝钱集资应援
-        url: 
-      - title: 给其他成员P鬼图
-        url: 
+      - title: 高卿尘不愿让人知晓的真实家世
+        url: /nine/family-circumstances
+  #     - title: 高卿尘小偷家族
+  #       children:
+  #         - title: 偷人设
+  #           url: 
+  #         - title: 偷口音
+  #           url:
+  #         - title: 偷应援色
+  #           url:
+  # - title: 高卿尘粉丝
+  #   children:
+  #     - title: 粉丝网暴素人
+  #       url:
+  #     - title: 粉丝屠版豆瓣
+  #       url: /home
+  # - title: 刘宇
+  #   children: 
+  #     - title: 学历造假
+  #       url: 
+  #     - title: 内涵团内成员
+  #       url:
+  # - title: 刘宇粉丝
+  #   children:
+  #     - title: 骗粉丝钱集资应援
+  #       url: 
+  #     - title: 给其他成员P鬼图
+  #       url: 
