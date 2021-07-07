@@ -29,10 +29,10 @@ side-nav:
   #           url:
   #         - title: 偷应援色
   #           url:
-  # - title: 高卿尘粉丝
-  #   children:
-  #     - title: 粉丝网暴素人
-  #       url:
+  - title: 高卿尘粉丝
+    children:
+      - title: 后援会号召粉丝屠版豆瓣
+        url: /nine-fans/conspire-attack
   #     - title: 粉丝屠版豆瓣
   #       url: /home
   # - title: 刘宇

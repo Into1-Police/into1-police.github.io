@@ -41,4 +41,4 @@ pageview: false
 
 | `高卿尘` | `高卿尘粉丝` |
 | --- |  --- | 
-| [<img src="/assets/images/nine.png">](/nine-collection) | [<img src="/assets/images/strawberry.png">](/nine-fans-collection) | 
+| [<img src="/assets/images/nine.png">](/nine-collection) | [<img src="/assets/images/strawberry.png">](/ninefans-collection) | 
