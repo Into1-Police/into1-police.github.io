@@ -76,7 +76,7 @@ pageview: true
 ## 泰国“励志偶像”嫌弃中国别墅
 
 当高卿尘看到自己的宿舍以后就开始臭脸，张嘉元AK伯远接连安慰他，说整个一层都是你的，你还有花园，高卿尘依旧臭着脸大喊这个房子太土了！据悉INTO1宿舍坐落于北京明星云集的别墅区，要知道，世界上还有很多贫穷国家的孩子还吃不上饭穿不起衣服，一直给自己塑造**妈妈需要存钱买来中国机票**贫苦泰国人民人设在节目里**镜头前**嫌弃别墅太土来不喜欢。不仅仅打脸人设，更是证明了其富二代的家世。
-泰国的富二代在节目里公然在嫌弃别墅太土了不喜欢。<a class="button button--error button--rounded button--md" href="#">点击查看高卿尘真实家世</a>
+泰国的富二代在节目里公然在嫌弃别墅太土了不喜欢。<a class="button button--error button--rounded button--md" href="https://into1-police.github.io/nine/family-circumstances" target="_blank" rel="noopener noreferrer">点击查看高卿尘真实家世</a>
 
 <div class="card">
   <div class="card__image">
@@ -104,7 +104,7 @@ pageview: true
 </div>
 
 eww在此团综播出后引起粉丝热议，高卿尘粉丝解释说高卿尘用eww是因为英文不好。
-然而高卿尘就读于泰国易三仓学院，此学院为泰国全英文授课的贵族学校（关于他就读学校以及身世的细节，请[看此文章]("/nine/nine-finance"）)。在官方资料中，高卿尘是能够流利说英文和泰文的，且粉丝一直以是`掌握多国语言，万内真正走向international的人`{:.error}自居。[^1]此解释不仅不成立，更是否认高卿尘本人的能力。
+然而高卿尘就读于泰国易三仓学院，此学院为泰国全英文授课的贵族学校（关于他就读学校以及身世的细节，请[看此文章](https://into1-police.github.io/nine/nine-finance)。在官方资料中，高卿尘是能够流利说英文和泰文的，且粉丝一直以是`掌握多国语言，万内真正走向international的人`{:.error}自居。[^1]此解释不仅不成立，更是否认高卿尘本人的能力。
 
 [^1]: [豆瓣原帖](https://www.douban.com/group/topic/226159776/)
 
@@ -368,7 +368,7 @@ eww在此团综播出后引起粉丝热议，高卿尘粉丝解释说高卿尘�
   </div>
 </div>
 
-最后的评论关于一共选曲的视频，指的是[对曾涵江变脸](#zhj)
+最后的评论关于一公选曲的视频，指的是[对曾涵江变脸](#zhj)
 
 
 
