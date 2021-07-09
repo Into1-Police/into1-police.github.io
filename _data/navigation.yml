@@ -21,29 +21,9 @@ side-nav:
         url: /nine/fake-sweetheart
       - title: 高卿尘不愿让人知晓的真实家世
         url: /nine/family-circumstances
-  #     - title: 高卿尘小偷家族
-  #       children:
-  #         - title: 偷人设
-  #           url: 
-  #         - title: 偷口音
-  #           url:
-  #         - title: 偷应援色
-  #           url:
   - title: 高卿尘粉丝
     children:
       - title: 后援会号召粉丝屠版豆瓣
         url: /nine-fans/conspire-attack
-  #     - title: 粉丝屠版豆瓣
-  #       url: /home
-  # - title: 刘宇
-  #   children: 
-  #     - title: 学历造假
-  #       url: 
-  #     - title: 内涵团内成员
-  #       url:
-  # - title: 刘宇粉丝
-  #   children:
-  #     - title: 骗粉丝钱集资应援
-  #       url: 
-  #     - title: 给其他成员P鬼图
-  #       url: 
+      - title: 带领粉丝恶意举报
+        url: /nine-fans/abuse-reports
