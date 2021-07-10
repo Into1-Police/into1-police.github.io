@@ -22,7 +22,7 @@ url     : https://into1-police.github.io/ # the base hostname & protocol for you
 baseurl : # does not include hostname
 title   : Into1 警务处
 description: > # this means to ignore newlines until "Language & timezone"
-  该网站用来收集into1男团偷line的男艺人及其粉丝的不耻行为，力求客观和公正。
+  本网站致力于收集into1男团某些成员及其粉丝的缺乏对青少年正向引导的行为。
 
 
 ## => Language and Timezone
@@ -38,7 +38,7 @@ author:
   name      : Into1 Police
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  bio       : 
   email     : into1.police@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -118,11 +118,11 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: valine # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
-    shortname: # the Disqus shortname for the site
+    # shortname: into1-police # the Disqus shortname for the site
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
@@ -137,11 +137,11 @@ comments:
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
   valine:
-    app_id      : # LeanCloud App id
-    app_key     : # LeanCloud App key
-    placeholder : # Prompt information
+    app_id      : WVWz8AX1IjIF3k0Y6FrYDIxn-MdYXbMMI # LeanCloud App id
+    app_key     : 6jqsdY7XTeJ80dGN6kMFRfwW # LeanCloud App key
+    placeholder : Please leave respectful comment otherwise will be removed. # Prompt information
     visitor     : # false (default)
-    meta        : # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
+    meta        : "[nick, mail]" # "[nick, mail]" (default) nickname, E-mail, Personal-site
 
 
 ## => Pageview

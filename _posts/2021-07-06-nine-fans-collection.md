@@ -3,6 +3,7 @@ layout: articles
 title: 草莓酱图鉴
 permalink: /ninefans-collection
 pageview: false
+comment: false
 ---
 
 <div class="item">

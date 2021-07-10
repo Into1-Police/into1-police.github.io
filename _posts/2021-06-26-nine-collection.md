@@ -3,6 +3,7 @@ layout: articles
 title: 高卿尘图鉴
 permalink: /nine-collection
 pageview: false
+comment: false
 ---
 
 <div class="item">
