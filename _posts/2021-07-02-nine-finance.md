@@ -165,7 +165,6 @@ excerpt: 从4岁开始就读泰国有名的私立学校，一直持续到大学�
 </div>
 
 
-
 高卿尘曾在大岛日记中佩戴价值**3w5人民币**的私人手表。
 
 <div class="card">
@@ -186,6 +185,7 @@ excerpt: 从4岁开始就读泰国有名的私立学校，一直持续到大学�
     <img class="image" src="../assets/images/nine/nine-family/nine-family-23.png"/>
     <img class="image" src="../assets/images/nine/nine-family/nine-family-24.png"/>
     <img class="image" src="../assets/images/nine/nine-family/nine-finance-17.png"/>
+    <img class="image" src="../assets/images/nine/nine-family/nine-finance-29.webp"/>
   </div>
 </div>
 
