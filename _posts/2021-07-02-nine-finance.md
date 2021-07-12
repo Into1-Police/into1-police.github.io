@@ -189,7 +189,16 @@ excerpt: 从4岁开始就读泰国有名的私立学校，一直持续到大学�
   </div>
 </div>
 
+<div class="card">
+  <div class="card__image">
+    <img class="image" src="../assets/images/nine/nine-family/nine-sister-05.png"/>
+    <img class="image" src="../assets/images/nine/nine-family/nine-finance-30.jpeg"/>
+      <img class="image" src="../assets/images/nine/nine-family/nine-finance-31.png"/>
+  </div>
+</div>
+
 我们再来回顾一下，3月17日播放年夜饭特辑后，高卿尘营销的高位热搜以及观众的评论。
+
 <div class="card">
   <div class="card__image">
     <img class="image" src="../assets/images/nine/nine-family/weibo-01.png"/>
